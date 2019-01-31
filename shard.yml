@@ -1,0 +1,19 @@
+name: zetblockchain
+version: 0.1.0
+
+authors:
+  - Andrew Zhuk <zhuk_andriy@hotmail.com>
+
+targets:
+  zetblockchain:
+    main: src/zetblockchain.cr
+
+crystal: 0.25.1
+
+license: MIT
+
+dependencies:
+  openssl:
+    github: datanoise/openssl.cr
+  kemal:
+    github: kemalcr/kemal
