@@ -1,4 +1,4 @@
-# zetblockchain
+# Zetblockchain
 
 An example how to create blockchain from scratch in Crystal lang
 ## Installation
@@ -23,4 +23,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [zettheme](https://github.com/zettheme) Andrew Zhuk - creator, maintainer
+- [andrewzhuk](https://github.com/andrewzhuk) Andrew Zhuk - creator, maintainer
